@@ -1,0 +1,1 @@
+This is an android application to help guide an airplane pilot through a series of predetermined 4-dimensional waypoints (each waypoint consists of a latitiude, longitude, altitude, and time). The app provides visual feedback for cross-track error, along-track error, velocity error, a lubber line, a glideslope, and a compass. All positional data is streamed from a gps provider. 
